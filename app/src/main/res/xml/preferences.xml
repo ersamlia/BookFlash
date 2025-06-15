@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Akun">
+        <EditTextPreference
+            android:key="username"
+            android:title="Nama Pengguna"
+            android:summary="Ubah nama pengguna Anda" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Tampilan">
+        <SwitchPreferenceCompat
+            android:key="dark_mode"
+            android:title="Mode Gelap"
+            android:summary="Aktifkan mode gelap" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

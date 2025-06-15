@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "585372295805",
+    "project_id": "latihanpraktikum8-54db0",
+    "storage_bucket": "latihanpraktikum8-54db0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585372295805:android:d623ba6ef80441c9d14714",
+        "android_client_info": {
+          "package_name": "com.example.latihan_praktikum_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585372295805-00kbu30ce0vei0bnojmssogt85b6shk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_praktikum_6",
+            "certificate_hash": "74e9057f387d10c4f6e1b6ce5c7857a2fb2017b9"
+          }
+        },
+        {
+          "client_id": "585372295805-q2iiha4qejh2v9glaja0qpjsr3qbjf0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpGNpUN7Hdrf7mtH-kbR9YzHD_-KSIqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585372295805-q2iiha4qejh2v9glaja0qpjsr3qbjf0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
